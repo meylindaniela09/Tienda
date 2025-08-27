@@ -1,0 +1,12 @@
+.productos-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.productos-flex img {
+    width: 30%;
+    max-width: 200px;
+    border-radius: 10px;
+}
